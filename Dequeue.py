@@ -24,4 +24,4 @@ dbend.pop()
 print ('Pop at right : ' , dbend)
 #remoing from left 
 dbend.popleft()
-print ('Pop at right : ' , dbend)
+print ('Pop at left : ' , dbend)
